@@ -1,3 +1,3 @@
-const configure = require('@microservice/eslint')
+const configure = require("@microservice/eslint");
 
-module.exports = configure;
+module.exports = configure.eslint_config;
